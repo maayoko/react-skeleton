@@ -1,1 +1,6 @@
-console.log("Hond Civic w/ Ugly Spoiler");
+var React = require("react");
+// var ListItem = React.createClass({
+//
+// });
+
+console.log(React);
